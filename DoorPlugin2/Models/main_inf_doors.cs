@@ -4,7 +4,7 @@ using System.IO;
 using System.Diagnostics;
 using System.Collections.Generic;
 
-namespace DoorPlugin.Models
+namespace DoorPlugin2.Models
 {
     public class Main_inf_door
     {
