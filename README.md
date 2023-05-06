@@ -1,4 +1,1 @@
-# DoorPlugin69 - RM4
-A Sexy DoorPlugin For A Sexy Game
-
-Made by Joseep
+fuck you motherfuckers, this is my fucking code
